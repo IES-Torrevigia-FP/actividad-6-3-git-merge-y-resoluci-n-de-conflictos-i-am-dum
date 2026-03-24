@@ -1,4 +1,4 @@
 Línea 1: Érase una vez un proyecto.
-Línea 2: La historia comienza en la rama main.
+Línea 2: La historia principal avanza en la rama main.
 Línea 3: Aún no hay ramas alternativas.
 Línea 4: En la rama capitulo-1 añadimos un nuevo capítulo.
